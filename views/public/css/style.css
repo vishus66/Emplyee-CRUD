@@ -1,0 +1,25 @@
+.background{
+     background-color: #6e2cf3;
+}
+
+.mid-section{
+     height: 581px; 
+     overflow: auto;
+}
+.mid-section::-webkit-scrollbar{
+     display: none;
+}
+
+.form-control{
+     outline: 1px solid #6e2cf3;
+}
+
+.form-control:focus{
+     outline: 5px solid #b18ef7;
+}
+.btn-primary{
+     background-color: #6e2cf3;
+}
+.btn-primary:hover{
+     background-color: #5b1ed6;
+}
